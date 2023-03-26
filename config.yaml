@@ -31,8 +31,8 @@ languages:
           series: series
         menu:
             main:
-                - name: Get In Touch
-                  url: https://www.packingpanic.com/contact-us
+                - name: Shop
+                  url: https://www.packingpanic.com
                   weight: 1
                 - name: Privacy
                   url: privacy/
@@ -40,6 +40,9 @@ languages:
                 - name: Imprint
                   url: https://www.headissue.com/imprint.html
                   weight: 10
+                - name: Get In Touch
+                  url: https://www.packingpanic.com/contact-us
+                  weight: 15
 #                - name: Archive
 #                  url: posts/
 #                  weight: 5
