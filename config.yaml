@@ -3,7 +3,7 @@ baseURL: 'https://blog.packingpanic.com'
 # languageCode: 'en'
 title: 'Packing Panic - The Blog'
 theme: "PaperMod"
-copyright: "Copyright 2022 - Packing Panic is a registered trade mark."
+copyright: "Copyright 2023 - Packing Panic is a registered trade mark."
 
 relativeURLs: true
 # uglyURLs: true
@@ -77,7 +77,7 @@ params:
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
     ShowToc: false
-    # comments: false
+    comments: true
     images: ["papermod-cover.png"]
 
     profileMode:
