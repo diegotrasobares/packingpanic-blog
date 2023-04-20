@@ -2,6 +2,7 @@
 title: "One Baggers and Light Travellers Community Bi-Weekly Summary"
 date: 2023-04-20T09:50:17+07:00
 author: "bayu"
+draft: true
 cover:
     image: "pexels-pixabay-48137.jpg"
     alt: "packinglist"
