@@ -11,14 +11,7 @@ cover:
 ---
 ---
 
-## Highlights: 3 Weeks hiking in Japan by a 70-year-old Hiker, staying fit during travels and Alternatives to Merino T-shirts.
-
-### About our Bi-Weekly Summary
-
-This is a summary of discussions and the latest news in the One Bagger and Light Traveller's space.
-It covers gear recommendations for packing hacks and popular travel destinations. For the summary, we compile interesting bits and pieces from various sources.
-
-In our summary, we'll be taking a deep dive into the top discussions, tips, and insights from three thriving subreddits - [Onebag](https://www.reddit.com/r/onebag/), [Digital Nomad](https://www.reddit.com/r/digitalnomad/), and [Ultralight](https://www.reddit.com/r/Ultralight/).   
+This is a summary of discussions and the latest news in the One Bagger and Light Traveller's space from the last two weeks. From a story of a 70-year-old hiker's 3-week journey in Japan, to tips for staying fit while travelling, even alternatives to Merino t-shirts - we've got it all covered. So, let's dive in!
 
 ### Overview
 
@@ -89,4 +82,6 @@ Other discussions that caught our attention can be seen here:
 - [Lifestyle view: You can’t out-travel your problems](https://www.reddit.com/r/digitalnomad/comments/12ldqju/you_cant_outtravel_your_problems/)
 - [A month in Taipei, Taiwan](https://www.reddit.com/r/digitalnomad/comments/12epd70/a_month_in_taipei_taiwan/)
 
-We hope this round-up of Weeks 14 and 15 in these Subreddits has provided you with valuable information for your future travels.
+### That's all, isn't it?
+
+Hopefully, we insipired your lightweight travel journey. Do you have other exciting news regarding topics we might have missed? let us know through this [contact form](https://www.packingpanic.com/contact-us).
