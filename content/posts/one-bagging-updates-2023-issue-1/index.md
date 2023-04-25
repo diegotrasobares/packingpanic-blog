@@ -3,7 +3,7 @@ title: "One Bagging Updates 2023 Issue 1"
 date: 2023-04-25
 author: "bayu"
 cover:
-    image: "pexels-pixabay-48137.jpg"
+    image: "pexels-ketut-subiyanto-4902010-cut.jpg"
     alt: "packinglist"
     caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
