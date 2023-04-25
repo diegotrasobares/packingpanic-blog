@@ -1,6 +1,6 @@
 ---
-title: "The One Baggers and Light Travellers Community Bi-Weekly Summary"
-date: 2023-04-24T09:50:17+07:00
+title: "One Bagging Updates 2023 Issue 1"
+date: 2023-04-25
 author: "bayu"
 cover:
     image: "pexels-pixabay-48137.jpg"
@@ -27,6 +27,7 @@ This is a summary of discussions and the latest news in the One Bagger and Light
 So, let's unpack the wealth of information and discover what's been buzzing!
 
 ### Packing Tips: 3 Weeks Hiking in Japan
+
 One of the key aspects of onebagging is efficient packing, and the Onebag subreddit has been abuzz with valuable tips and insights. In the post "3 weeks hiking in Japan" The author expresses gratitude for the One Bag community and shares their trip to hike around the island of Shikoku in Japan, which involves visiting 77 temples. The author shared a gear list, which includes clothing from REI and Bluffworks, a Six Moons Designs backpacking umbrella, a Pixel phone, and a Fitbit Versa 2. The author also wrote about some concerns about the cold weather and elevation.
 
 The key takeaway from the author's post is that even at 70 years old, it's possible to have an adventure-packed journey with minimal luggage and still remain comfortable. The post highlights the importance of planning and packing carefully, as well as the usefulness of being part of a community such as the One Bag subreddit to learn from others and share experiences. The full discussion can be accessed here: [3 Weeks Hiking in Japan](https://www.reddit.com/r/onebag/comments/12ehqrc/3_weeks_hiking_in_japan/).
@@ -38,10 +39,10 @@ The "Don't Overthink It" post on Reddit highlights the community's focus on trav
 The key takeaways from the discussion include prioritizing the most essential items when packing and being mindful of the climate and activities of the destination. Versatile clothing items that can be worn in multiple ways are ideal for saving space in a backpack, and packing lighter and smaller items can make a big difference in the weight of the load. The conversation emphasizes the importance of not getting too caught up in gear and packing decisions, and instead focusing on the experience of travel itself. By simplifying the packing process and embracing the spirit of adventure, travellers can make the most of their trips and create lasting memories.  The complete conversation can be viewed at [Don\'t overthink discussion]((https://www.reddit.com/r/onebag/comments/12b8pkl/dont_overthink_it/)).
 
 ### Travel Tip: Hard Lesson From Camping Trip
+
 The writers went on their first backpacking camping trip but didn't consider the weight of their packs. The campsite they planned to use was occupied, so they hiked another mile to the next site through difficult terrain. They enjoyed the trip but were sore from the weight of their packs. In this interactive discussion, other members share their guidance on how to reduce pack weight and ask for suggestions on significant substitutions or eliminations that others have made.
 
 Many valuable lessons from the community can be useful for your future backpacking and camping trip, including advice on gear, safety, and trip planning. The entire dialogue can be accessed at [Hard Lesson From Camping Trip]((https://www.reddit.com/r/Ultralight/comments/12aoohe/hard_lessons_learned_advice_welcomed/)).
-
 
 ### Travel Tip: Staying Fit During Long-Term Travel
 
@@ -69,10 +70,12 @@ By seeking recommendations from like-minded travellers, one can find the best cl
 
 The author is using the Osprey 26+6 backpack for a 3-week trip around Europe that involves hiking and colder weather. The backpack is lightweight, comfortable, and has good build quality. The author could fit their clothing, toiletries, and other essentials, and found the backpack to be a good value. The backpack also has useful features such as a solid back panel and water bottle pockets and can be compressed for easier storage.
 
-The key takeaway from the Reddit thread is the positive review of the Osprey 26+66 backpack, highlighting its size, compartments, and comfort as positive features. This information can be useful for readers who are interested in this backpack for their own travel or daily use needs. The full discussion can be read here: [Osprey 26+6: A Brief Review](https://www.reddit.com/r/onebag/comments/12lqrce/osprey_266_a_brief_review/)
+The review of the Osprey 26+66 backpack is positive: highlighting size, compartments, and comfort. Looking to optimze your backpack? Not sure which features you need in a backpack? Read the full discussion here: [Osprey 26+6: A Brief Review](https://www.reddit.com/r/onebag/comments/12lqrce/osprey_266_a_brief_review/)
 
+### Want more?
 
-Other discussions that caught our attention can be seen here:
+Here are some recommendations for you:
+
 - [6 Countries in 6 months-Latin America Trip Review](https://www.reddit.com/r/onebag/comments/12dw835/6_countries_in_6_months_latin_america_trip_review/)
 - [Patagonia MLC: My first One Bag experience. 2 weeks in China](https://www.reddit.com/r/onebag/comments/12dehx6/patagonia_mlc_my_first_one_bag_experience_2_weeks/)
 - [My First Onebag Trip, Lithuania](https://www.reddit.com/r/onebag/comments/12n3ebf/my_first_onebag_trip_lithuania/)
@@ -84,4 +87,4 @@ Other discussions that caught our attention can be seen here:
 
 ### That's all, isn't it?
 
-Hopefully, we insipired your lightweight travel journey. Do you have other exciting news regarding topics we might have missed? let us know through this [contact form](https://www.packingpanic.com/contact-us).
+Hopefully, we insipired your lightweight travel journey. Do you have exciting news we should cover in our next issue? You can reach us with the [contact form](https://www.packingpanic.com/contact-us).
