@@ -3,8 +3,8 @@ title: "One Bagging Updates 2023 Issue 1"
 date: 2023-04-25
 author: "bayu"
 cover:
-    image: "pexels-ketut-subiyanto-4902010-cut.jpg"
-    alt: "packinglist"
+    image: "pexels-ketut-subiyanto-4901984-blog169.jpg"
+    alt: "Image credit: Ketut Subiyanto - https://www.pexels.com/@ketut-subiyanto/"
     caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
     linkFullImages: true
