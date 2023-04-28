@@ -1,3 +1,5 @@
+{{- /* Custom footer with About Us section and original copyright, https://github.com/packingpanic/tech/issues/54 */ -}}
+
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
     <div class="footer-container">
@@ -44,6 +46,8 @@
 
 </footer>
 {{- end }}
+
+{{- /* Not changed from original theme footer.html */ -}}
 
 {{- if (not site.Params.disableScrollToTop) }}
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
@@ -120,6 +124,7 @@
 <script>
     document.querySelectorAll('pre > code').forEach((codeblock) => {
         const container = codeblock.parentNode.parentNode;
+
         const copybutton = document.createElement('button');
         copybutton.classList.add('copy-code');
         copybutton.innerHTML = '{{- i18n "code_copy" | default "copy" }}';
