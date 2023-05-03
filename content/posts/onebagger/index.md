@@ -9,7 +9,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
     linkFullImages: true
 ---
----
+
 Ever felt burdened by hauling around your bulky bags during your trip? Or you are looking to simplify your travel experience and promote sustainability? Consider onebagging.
 
 Onebagging travel refers to a philosophy that suggests you only pack what you truly need to travel effectively and comfortably. This approach values simplicity and mobility, enabling you to immerse yourself in the destination without the burden of bulky baggage. It also aligns with the principle of sustainability as it decreases the amount of resources consumed during traveling. Therefore, onebagging is an environmentally conscious way of traveling that encourages individuals to be mindful of their impact on the planet. Ultimately, onebagging empowers individuals to enjoy the freedom and flexibility of travelling without sacrificing their commitment to minimalism and sustainability.

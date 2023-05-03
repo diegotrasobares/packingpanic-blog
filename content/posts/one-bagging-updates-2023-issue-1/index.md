@@ -9,7 +9,6 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles
     linkFullImages: true
 ---
----
 
 This is a summary of discussions and the latest news in the One Bagger and Light Traveller's space from the last two weeks. From a story of a 70-year-old hiker's 3-week journey in Japan, to tips for staying fit while travelling, even alternatives to Merino t-shirts - we've got it all covered. So, let's dive in!
 
