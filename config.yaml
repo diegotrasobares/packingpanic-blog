@@ -40,9 +40,13 @@ languages:
                 - name: Imprint
                   url: https://www.headissue.com/imprint.html
                   weight: 10
+                - name: Team
+                  url: team/
+                  weight: 15
                 - name: Get In Touch
                   url: https://www.packingpanic.com/contact-us
-                  weight: 15
+                  weight: 20
+                  
 #                - name: Archive
 #                  url: posts/
 #                  weight: 5
