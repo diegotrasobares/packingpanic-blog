@@ -1,7 +1,6 @@
 ---
 title: "My Experience Using Packing Cubes"
-date: 2023-03-17T09:50:17+07:00
-draft: true
+date: 2023-05-09
 author: "bayu"
 cover:
     image: "bayu-packing-cubes.png"
