@@ -43,9 +43,12 @@ languages:
                 - name: Team
                   url: team/
                   weight: 15
+                - name: Jobs
+                  url: jobs/
+                  weight: 20
                 - name: Get In Touch
                   url: https://www.packingpanic.com/contact-us
-                  weight: 20
+                  weight: 25
                   
 #                - name: Archive
 #                  url: posts/
